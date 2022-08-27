@@ -2,6 +2,7 @@
 
 
 # Hello , folks  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width = 30px alt="css3"/> I'm Sidharth !
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidharth004&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👨‍💻 A sophomore CSE Undergrad student from India.
 - 👀 I’m fond of android development .
