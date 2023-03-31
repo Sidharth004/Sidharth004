@@ -5,9 +5,10 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidharth004&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👨‍💻 A Junior CSE Undergrad from India.
+- 🛠 Everything Research Layer2 and ZK Rollups
 - 🐱‍🏍 Passion for Web3.0 runs in my viens.
-- 🤩 Just getting started into blockchain and I'm already in love with it...Built multiple Dapps. Also, worked with my teammates to create Diggerrzz DAO!
-- 🐼 Love to write about blockchain.. **[Read my first article here](https://blog.commclassroom.org/the-ethereum-merge-simply-explained)**
+- 🤩Built multiple Dapps. Also, worked with my teammates to create Diggerrzz DAO!
+- 🐼 Love to write in depth content for web3 devs to newcomers.. **[Read my best article here]([https://blog.commclassroom.org/the-ethereum-merge-simply-explained](https://vitto.cc/polkadot-vs-ethereum-the-full-comparison/)**
 - 💰 Always monitoring trends in the glimmering world of cryptocurrency  <img src="https://tenor.com/view/money-with-wings-joypixels-flying-wealth-rich-gif-17542745.gif" width = 30px />
 
 
