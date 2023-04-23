@@ -40,7 +40,7 @@ I love exploring about dapps built on ethereum blockchain follow the trends in g
   
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/direct-hit_1f3af.png" width = 30px alt="css3"/> I’m currently working on **Improving my Smart Contract and React Skills** 
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/direct-hit_1f3af.png" width = 30px alt="css3"/> 2022 Goals : Work on multiple blockchains **consistently !**
-- <img src="https://media1.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" width = 30px alt="css3"/> Ask me about **The Decentralized world , NFT's , Web 3.0 , Football**
+- <img src="https://media1.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" width = 30px alt="css3"/> Ask me about **L2 Scalling, ZK Rollups, Modular Stack , NFT's , Web 3.0 , Football **
 - <img src="https://tenor.com/view/lightning-bolt-thunder-flashing-colors-lightning-gif-17433030.gif" width =30px alt="css3"/>Fun Fact:I'm blessed with **34** teeth🧛😂
 
  ## Connect with me!! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
