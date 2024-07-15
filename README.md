@@ -4,8 +4,14 @@
 # Hello!  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width = 30px alt="css3"/> I'm Sidharth 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidharth004&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👨‍💻 A Junior CSE Undergrad from India.
-- 🛠 Everything Research Layer2 and ZK Rollups
+## Experience: 
+- Prev. PM [Doge Capital](https://www.wardrobe.live/)🐶
+- Backend GenAI Dev Intern (Web2) for [Reblue Ventures](https://www.reblueventures.com/)🍃
+- Analyst, [Alchemy](https://www.alchemy.com/) 🧙‍♀️
+
+## About:
+- 👨‍💻 A Senior CSE Undergrad from India.
+- 🛠 Everything Research Layer2 and ZK Rollups and Solana.
 - 🐱‍🏍 Passion for Web3.0 runs in my veins.
 - 🤩Built multiple Dapps. Also, worked with my teammates to create Diggerrzz DAO!
 - 🐼 Love to write in depth content for web3 devs to newcomers.. **[Read my best article here]([https://blog.commclassroom.org/the-ethereum-merge-simply-explained](https://vitto.cc/polkadot-vs-ethereum-the-full-comparison/)**
