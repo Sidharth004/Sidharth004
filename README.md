@@ -15,7 +15,7 @@
 - 🐱‍🏍 Vibe building Consumer Apps .
 - 🤩 Loves Solana and Chain Abstraction Technologies.
 - ♟ Snacking around Microeconomics and GameTheory 
-- Know more about my cryptoverse here [sidlovescrypto.xyz](https://sidlovescrypto.xyz)
+- 💙 Know more about my cryptoverse here [sidlovescrypto.xyz](https://sidlovescrypto.xyz)
 
 
 - 📫 How to reach me kumthekarsid@gmail.com
