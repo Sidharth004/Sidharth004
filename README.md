@@ -5,15 +5,16 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidharth004&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Experience: 
-- Prev. PM [Doge Capital](https://www.wardrobe.live/)🐶
-- Backend GenAI Dev Intern (Web2) for [Reblue Ventures](https://www.reblueventures.com/)🍃
+- Prev. PM [Merkle Labs](https://www.wardrobe.live/)🐶
+- Backend GenAI Dev Intern (Web2) [Reblue Ventures](https://www.reblueventures.com/)🍃
 - Analyst, [Alchemy](https://www.alchemy.com/) 🧙‍♀️
 
 ## About:
-- 👨‍💻 A Senior CSE Undergrad from India.
-- 🛠 Everything Research Layer2 and ZK Rollups and Solana.
-- 🐱‍🏍 Passion for Web3.0 runs in my veins.
-- 🤩Built multiple Dapps. Also, worked with my teammates to create Diggerrzz DAO!
+- 👨‍💻 CSE from India.
+- 🛠 Loves Growth Hacking and Trenching.
+- 🐱‍🏍 Vibe building Consumer Apps .
+- 🤩 Loves Solana and Chain Abstraction Technologies.
+- ♟ Exploring Microeconomics and GameTheory 
 - 🐼 Love to write in depth content for web3 devs to newcomers.. **[Read my best article here]([https://blog.commclassroom.org/the-ethereum-merge-simply-explained](https://vitto.cc/polkadot-vs-ethereum-the-full-comparison/)**
 - 💰 Always monitoring trends in the glimmering world of cryptocurrency  <img src="https://tenor.com/view/money-with-wings-joypixels-flying-wealth-rich-gif-17542745.gif" width = 30px />
 
@@ -45,8 +46,8 @@ I love exploring about dapps built on ethereum blockchain follow the trends in g
   <img src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" > &nbsp;&nbsp;
   
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/direct-hit_1f3af.png" width = 30px alt="css3"/> I’m currently working on **Improving my Smart Contract and React Skills** 
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/direct-hit_1f3af.png" width = 30px alt="css3"/> 2022 Goals : Work on multiple blockchains **consistently !**
-- <img src="https://media1.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" width = 30px alt="css3"/> Ask me about **L2 Scalling, ZK Rollups, Modular Stack , NFT's , Web 3.0 , Football **
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/direct-hit_1f3af.png" width = 30px alt="css3"/> 2025 Goals: Accelerate Consumer Crypto, Live Digial Nomad Life**
+- <img src="https://media1.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" width = 30px alt="css3"/> Ask me about ** Push Chain, Solana, Chain Abstraction, Modular Stack , NFT's , Web 3.0 , Football **
 - <img src="https://tenor.com/view/lightning-bolt-thunder-flashing-colors-lightning-gif-17433030.gif" width =30px alt="css3"/>Fun Fact:I'm blessed with **34** teeth🧛😂
 
  ## Connect with me!! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
