@@ -14,9 +14,8 @@
 - 🛠 Loves Growth Hacking and Trenching.
 - 🐱‍🏍 Vibe building Consumer Apps .
 - 🤩 Loves Solana and Chain Abstraction Technologies.
-- ♟ Exploring Microeconomics and GameTheory 
-- 🐼 Love to write in depth content for web3 devs to newcomers.. **[Read my best article here]([https://blog.commclassroom.org/the-ethereum-merge-simply-explained](https://vitto.cc/polkadot-vs-ethereum-the-full-comparison/)**
-- 💰 Always monitoring trends in the glimmering world of cryptocurrency  <img src="https://tenor.com/view/money-with-wings-joypixels-flying-wealth-rich-gif-17542745.gif" width = 30px />
+- ♟ Snacking around Microeconomics and GameTheory 
+- Know more about my cryptoverse here [sidlovescrypto.xyz](https://sidlovescrypto.xyz)
 
 
 - 📫 How to reach me kumthekarsid@gmail.com
@@ -45,8 +44,7 @@ I love exploring about dapps built on ethereum blockchain follow the trends in g
   <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> &nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" > &nbsp;&nbsp;
   
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/direct-hit_1f3af.png" width = 30px alt="css3"/> I’m currently working on **Improving my Smart Contract and React Skills** 
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/direct-hit_1f3af.png" width = 30px alt="css3"/> 2025 Goals: Accelerate Consumer Crypto, Live Digial Nomad Life**
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/direct-hit_1f3af.png" width = 30px alt="css3"/> 2025 Goals: Accelerate my contributions in Consumer Crypto, Live Digial Nomad Life**
 - <img src="https://media1.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" width = 30px alt="css3"/> Ask me about ** Push Chain, Solana, Chain Abstraction, Modular Stack , NFT's , Web 3.0 , Football **
 - <img src="https://tenor.com/view/lightning-bolt-thunder-flashing-colors-lightning-gif-17433030.gif" width =30px alt="css3"/>Fun Fact:I'm blessed with **34** teeth🧛😂
 
