@@ -4,18 +4,18 @@
 # Hello!  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width = 30px alt="css3"/> I'm Sidharth 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidharth004&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Experience: 
-- Prev. PM [Merkle Labs](https://www.wardrobe.live/)🐶
-- Backend GenAI Dev Intern (Web2) [Reblue Ventures](https://www.reblueventures.com/)🍃
-- Analyst, [Alchemy](https://www.alchemy.com/) 🧙‍♀️
+## Dev Experience: 
+### Prev. Product Manager [Merkle Labs](https://merklelabs.xyz/). Built Solana's first NFT Traits Customization Platform - [Wardrobe](https://www.wardrobe.live/) ⚡️
+### Backend GenAI Developer [Reblue Ventures](https://www.reblueventures.com/) 🍃
+### Analyst, [Alchemy](https://www.alchemy.com/) 🧙‍♀️
 
 ## About:
-- 👨‍💻 CSE from India.
-- 🛠 Loves Growth Hacking and Trenching.
-- 🐱‍🏍 Vibe building Consumer Apps .
-- 🤩 Loves Solana and Chain Abstraction Technologies.
-- ♟ Snacking around Microeconomics and GameTheory 
-- 💙 Know more about my cryptoverse here [sidlovescrypto.xyz](https://sidlovescrypto.xyz)
+ ### 👨‍💻 Computer Science Engineer -   FT in Crypto.
+ ### 🛠 Currently learning to build on Solana.
+ ### 🐱‍🏍 Building Consumer Apps in Crypto .
+ ### 🤩 Loves Solana and Chain Abstraction Technologies.
+ ### ♟ Snacking around Microeconomics and GameTheory 
+ ### 💙 Know more about my cryptoverse here [sidlovescrypto.xyz](https://sidlovescrypto.xyz)
 
 
 - 📫 How to reach me kumthekarsid@gmail.com
