@@ -4,7 +4,10 @@
 # Hello!  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width = 30px alt="css3"/> I'm Sidharth 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidharth004&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Dev Experience: 
+## Present Focus:
+### Growth Lead [Push Chain](https://push.org)
+
+## Past Lives: 
 ### Prev. Product Manager [Merkle Labs](https://merklelabs.xyz/). Built Solana's first NFT Traits Customization Platform - [Wardrobe](https://www.wardrobe.live/) ⚡️
 ### Backend GenAI Developer [Reblue Ventures](https://www.reblueventures.com/) 🍃
 ### Analyst, [Alchemy](https://www.alchemy.com/) 🧙‍♀️
